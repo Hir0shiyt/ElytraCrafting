@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+  "H": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "P": {
+    "item": "minecraft:paper"
+  },
+  "E": {
+    "item": "minecraft:emerald"
+  },
+  "S": {
+    "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " HP",
+    "HPE",
+    "HPS"
+  ],
+
+  "result": {
+    "item": "elytracrafting:halfelytra",
+    "count": 1
+  }
+}
