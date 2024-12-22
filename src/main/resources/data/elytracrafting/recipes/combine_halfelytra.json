@@ -1,12 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-    "F": {
+    "H": {
       "item": "elytracraftingremastered:half_elytra"
     }
   },
     "pattern": [
-      "FF"
+      "HH"
   ],
   "result": {
     "id": "minecraft:elytra",

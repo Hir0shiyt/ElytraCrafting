@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
-  "H": {
+  "F": {
     "item": "minecraft:feather"
   },
   "P": {
@@ -15,9 +15,9 @@
     }
   },
   "pattern": [
-    " HP",
-    "HPE",
-    "HPS"
+    " FP",
+    "FPE",
+    "FPS"
   ],
 
   "result": {
