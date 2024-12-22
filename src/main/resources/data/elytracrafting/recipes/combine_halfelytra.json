@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "elytracrafting:halfelytra"
-    },
-    {
-      "item": "elytracrafting:halfelytra"
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "F": {
+      "item": "elytracraftingremastered:half_elytra"
     }
+  },
+    "pattern": [
+      "FF"
   ],
   "result": {
     "item": "minecraft:elytra",

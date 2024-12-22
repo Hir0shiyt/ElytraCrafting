@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "key": {
   "H": {
-    "item": "minecraft:phantom_membrane"
+    "item": "minecraft:feather"
   },
   "P": {
-    "item": "minecraft:paper"
+    "item": "minecraft:phantom_membrane"
   },
   "E": {
     "item": "minecraft:emerald"
@@ -21,7 +21,7 @@
   ],
 
   "result": {
-    "item": "elytracrafting:halfelytra",
+    "item": "elytracraftingremastered:half_elytra",
     "count": 1
   }
 }

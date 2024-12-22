@@ -1,6 +1,6 @@
 {
   "parent" : "minecraft:item/generated",
   "textures" : {
-    "layer0" : "elytracrafting:item/half_elytra"
+    "layer0" : "elytracraftingremastered:item/half_elytra"
   }
 }

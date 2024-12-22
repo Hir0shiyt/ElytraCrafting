@@ -1,8 +1,6 @@
 {
   "pack": {
-    "description": {
-      "text": "elytracrafting resources"
-    },
-    "pack_format": 20
+    "description": "${mod_id} resources",
+    "pack_format": 22
   }
 }
