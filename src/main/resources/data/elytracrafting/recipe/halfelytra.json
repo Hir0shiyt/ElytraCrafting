@@ -20,7 +20,7 @@
     "FPS"
   ],
   "result": {
-    "id": "elytracraftingremastered:half_elytra",
-    "count": 1
-  }
+    "count" : 1,
+    "id": "elytracraftingremastered:half_elytra"
+   }
 }
