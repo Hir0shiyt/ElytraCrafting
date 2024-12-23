@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category" : "misc",
+  "category": "misc",
   "key": {
-    "H": {
-      "item": "elytracraftingremastered:half_elytra"
-    }
+    "H": [
+      "elytracraftingremastered:half_elytra"
+    ]
   },
-    "pattern": [
-      "HH"
+  "pattern": [
+    "HH"
   ],
   "result": {
-    "count" : 1,
+    "count": 1,
     "id": "minecraft:elytra"
   }
 }

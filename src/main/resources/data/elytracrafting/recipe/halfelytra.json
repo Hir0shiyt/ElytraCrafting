@@ -1,18 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
+  "category": "misc",
   "key": {
-    "F": {
-      "item": "minecraft:feather"
-    },
-    "P": {
-      "item": "minecraft:paper"
-    },
-    "E": {
-      "item": "minecraft:emerald"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+    "F": [
+      "minecraft:feather"
+    ],
+    "P": [
+      "minecraft:phantom_membrane"
+    ],
+    "E": [
+      "minecraft:emerald"
+    ],
+    "S": [
+      "string"
+    ]
   },
   "pattern": [
     " FP",
@@ -20,7 +21,7 @@
     "FPS"
   ],
   "result": {
-    "count" : 1,
+    "count": 1,
     "id": "elytracraftingremastered:half_elytra"
-   }
+  }
 }
